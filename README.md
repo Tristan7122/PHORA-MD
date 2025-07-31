@@ -1,3 +1,12 @@
+<div class = "repo" align = "center">
+ 
+<a href = "#">
+<img src = "https://i.ibb.co/6RkJHmJn/shaban-md.jpg"  width="300" height="300">
+</img>
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=PHORA+MD+WHATSAPP+BOT" alt="">
+</p>
+
 # PHORA-MD
 
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Tristan-red.svg?style=for-the-badge&logo=github"></a>
