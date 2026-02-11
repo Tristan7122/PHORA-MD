@@ -19,7 +19,7 @@ const {
   const { File } = require('megajs')
   const prefix = '.'
   
-  const ownerNumber = ['27634624586']
+  conn.sendMessage(ownerNumber[0] + "@s.whatsapp.net", ...)
   
   //===================SESSION-AUTH============================
  // if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
