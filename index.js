@@ -45,7 +45,7 @@ const {
   
   const conn = makeWASocket({
           logger: P({ level: 'silent' }),
-          printQRInTerminal: false,
+          printQRInTerminal: true,
           browser: Browsers.macOS("Firefox"),
           syncFullHistory: true,
           auth: state,
@@ -81,7 +81,7 @@ const {
   ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐋𝐈𝐍𝐊          
   ║ https://chat.whatsapp.com/B8na5Q7N7mD7H3tO4csby7                 
   ╠═════════════════╣
-  ║      your name               
+  ║                     
   ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Tristan      
   ╚═════════════════╝
 `;
