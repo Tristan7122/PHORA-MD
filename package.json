@@ -1,6 +1,6 @@
 {
   "name": "PHORA MD",
-  "version": "1.0.0",
+  "version": "6.0.14",
   "description": "A WhatsApp Bot Created To automate tasks",
   "main": "index.js",
   "scripts": {
