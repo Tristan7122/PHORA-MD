@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created To automate tasks",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js --deep-monitoring --attach --name PHORA MD",
+    "start": "pm2 start index.js --name phora-md",
     "stop": "pm2 stop PHORA MD",
     "restart": "pm2 restart PHORA MD"
   },
